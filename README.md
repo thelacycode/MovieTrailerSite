@@ -12,6 +12,13 @@ Source code for a Movie Trailer website.
    entertainment_center.py
 
 3. Select the **entertainment_center** file and click run.
+
+
+## Acknowledgments
+* [Movie Posters](https://upload.wikimedia.org)
+* [Movie Trailers](https://youtube.com)
+* [Marvel](https://Marvel.com)
+
    
 
 

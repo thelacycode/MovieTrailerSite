@@ -1,4 +1,4 @@
-# Movie Trailer Website (ud036_StarterCode)
+# Movie Trailer Website 
 Source code for a Movie Trailer website.
 
 ## To run file on local computer:

@@ -15,8 +15,8 @@ Source code for a Movie Trailer website.
 
 
 ## Acknowledgments
-* [Movie Posters](https://upload.wikimedia.org)
-* [Movie Trailers](https://youtube.com)
+* Wikimedia - Movie Art
+* YouTube - Movie Trailers
 * [Marvel](https://Marvel.com)
 
    

@@ -1,5 +1,5 @@
-import media
 import fresh_tomatoes
+import media
 
 # add movie listings
 black_panther = media.Movie("Black Panther",
